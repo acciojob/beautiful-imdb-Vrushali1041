@@ -1,10 +1,10 @@
-.moviePic img{
+.moviePic{
     width: 650px;
     height: 350px;
     opacity: 0.8;
     margin-left: 350px;
 }
-.movieDetails p{
+.movieDetails{
     text-align: center;
     position:absolute;
     top: 350px;
